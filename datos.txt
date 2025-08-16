@@ -3,4 +3,8 @@ esto es una prueba de vim, esto es lo nuevo lo bueno es que es una buena practi,
 idale|
 =======
 estos gringos putos de mierda
+<<<<<<< HEAD
 >>>>>>> b1abafb (segundo)
+=======
+ivamos
+>>>>>>> b7a69e9 (datos.txt)
