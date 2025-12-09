@@ -27,6 +27,7 @@
 
 [![normal.jpg](https://i.postimg.cc/GmrwWdTD/normal.jpg)](https://postimg.cc/4m8StC54)
 [![Gemini-Generated-Image-svooixsvooixsvoo.png](https://i.postimg.cc/sgDKGgBC/Gemini-Generated-Image-svooixsvooixsvoo.png)](https://postimg.cc/ZC261ZFw)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTk4NzI5N119
+eyJoaXN0b3J5IjpbMTU0MDIxMTkxOSwxODg5OTg3Mjk3XX0=
 -->
